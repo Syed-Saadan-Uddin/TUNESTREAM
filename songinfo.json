@@ -1,0 +1,260 @@
+{
+    "songs": [
+      {
+        "id": 1,
+        "title": "All Eyez On Me",
+        "artist": "2Pac",
+        "album": "All Eyez On Me",
+        "cover_image_url": "https://coverartarchive.org/release/ed3e7564-e4a5-4885-9cb9-abaa4c44258c/1200",
+        "filename": "2Pac - All Eyez On Me.mp3"
+      },
+      {
+        "id": 2,
+        "title": "Back In Black",
+        "artist": "AC/DC",
+        "album": "Back In Black",
+        "cover_image_url": "https://upload.wikimedia.org/wikipedia/en/3/30/ACDC_Back_in_Black.png",
+        "filename": "ACDC - Back In Black (Official Video).mp3"
+      },
+      {
+        "id": 3,
+        "title": "BIRDS OF A FEATHER",
+        "artist": "Billie Eilish",
+        "album": "HIT ME HARD AND SOFT",
+        "cover_image_url": "https://upload.wikimedia.org/wikipedia/en/0/0f/Hit_Me_Hard_and_Soft_by_Billie_Eilish.png",
+        "filename": "Billie Eilish - BIRDS OF A FEATHER (Official Music Video).mp3"
+      },
+      {
+        "id": 4,
+        "title": "Livin' On A Prayer",
+        "artist": "Bon Jovi",
+        "album": "Slippery When Wet",
+        "cover_image_url": "https://upload.wikimedia.org/wikipedia/en/3/30/Slippery_When_Wet_album_cover.jpg",
+        "filename": "Bon Jovi  Livin On A Prayer.mp3"
+      },
+      {
+        "id": 5,
+        "title": "Bed Of Roses",
+        "artist": "Bon Jovi",
+        "album": "Keep The Faith",
+        "cover_image_url": "https://upload.wikimedia.org/wikipedia/en/2/2d/Keep_the_Faith_album_cover.jpg",
+        "filename": "Bon Jovi - Bed Of Roses.mp3"
+      },
+      {
+        "id": 6,
+        "title": "Hymn For The Weekend",
+        "artist": "Coldplay",
+        "album": "A Head Full Of Dreams",
+        "cover_image_url": "https://upload.wikimedia.org/wikipedia/en/4/4c/A_Head_Full_of_Dreams_cover.png",
+        "filename": "Coldplay - Hymn For The Weekend (Lyrics).mp3"
+      },
+      {
+        "id": 7,
+        "title": "Crawling",
+        "artist": "Linkin Park",
+        "album": "Hybrid Theory (Bonus Edition)",
+        "cover_image_url": "https://upload.wikimedia.org/wikipedia/en/5/5e/Linkin_Park_Hybrid_Theory_Album_Cover.jpg",
+        "filename": "Crawling [Official HD Music Video] - Linkin Park.mp3"
+      },
+      {
+        "id": 8,
+        "title": "One Last Breath",
+        "artist": "Creed",
+        "album": "Weathered",
+        "cover_image_url": "https://upload.wikimedia.org/wikipedia/en/5/50/Creed-Weathered.jpg",
+        "filename": "Creed - One Last Breath (Official Video).mp3"
+      },
+      {
+        "id": 9,
+        "title": "Such a Night",
+        "artist": "Elvis Presley",
+        "album": "Elvis' Golden Records, Vol. 4",
+        "cover_image_url": "https://upload.wikimedia.org/wikipedia/en/0/05/ElvisGoldenRecordsVol4.jpg",
+        "filename": "Elvis Presley - Such A Night wlyrics.mp3"
+      },
+      {
+        "id": 10,
+        "title": "Falak Tak",
+        "artist": "Udit Narayan, Mahalaxmi Iyer",
+        "album": "Tashan",
+        "cover_image_url": "https://images-na.ssl-images-amazon.com/images/I/71%2Bf2VAbXOL._SY355_.jpg",
+        "filename": "Falak Tak Song  Tashan  Akshay Kumar, Kareena Kapoor, Udit Narayan, Mahalaxmi Iyer, Vishal-Shekhar.mp3"
+      },
+      {
+        "id": 11,
+        "title": "Fly Me To The Moon (In Other Words)",
+        "artist": "Frank Sinatra",
+        "album": "It Might As Well Be Swing",
+        "cover_image_url": "https://upload.wikimedia.org/wikipedia/en/1/1f/Frank_Sinatra_-_It_Might_As_Well_Be_Swing.jpg",
+        "filename": "Fly me to the moon - Frank Sinatra (Lyrics).mp3"
+      },
+      {
+        "id": 12,
+        "title": "Careless Whisper",
+        "artist": "George Michael",
+        "album": "Ladies & Gentlemen",
+        "cover_image_url": "https://upload.wikimedia.org/wikipedia/en/e/ec/George_Michael_-_Ladies_and_Gentlemen_cover.png",
+        "filename": "George Michael - Careless Whisper (Official Video).mp3"
+      },
+      {
+        "id": 13,
+        "title": "Iris",
+        "artist": "The Goo Goo Dolls",
+        "album": "Dizzy up the Girl",
+        "cover_image_url": "https://upload.wikimedia.org/wikipedia/en/d/d2/Dizzy_Up_the_Girl.jpg",
+        "filename": "Goo Goo Dolls - Iris.mp3"
+      },
+      {
+        "id": 14,
+        "title": "Sweet Child O' Mine",
+        "artist": "Guns N' Roses",
+        "album": "Appetite For Destruction",
+        "cover_image_url": "https://upload.wikimedia.org/wikipedia/en/6/60/GunsnRosesAppetiteforDestructionalbumcover.jpg",
+        "filename": "Guns N' Roses - Sweet Child O' Mine (Official Music Video).mp3"
+      },
+      {
+        "id": 15,
+        "title": "Stereo Hearts (feat. Adam Levine)",
+        "artist": "Gym Class Heroes, Adam Levine",
+        "album": "The Papercut Chronicles II",
+        "cover_image_url": "https://upload.wikimedia.org/wikipedia/en/1/10/The_Papercut_Chronicles_II.jpg",
+        "filename": "Gym Class Heroes_ Stereo Hearts ft. Adam Levine _OFFICIAL VIDEO_.mp3"
+      },
+      {
+        "id": 16,
+        "title": "In the End",
+        "artist": "Linkin Park",
+        "album": "Hybrid Theory (Bonus Edition)",
+        "cover_image_url": "https://upload.wikimedia.org/wikipedia/en/5/5e/Linkin_Park_Hybrid_Theory_Album_Cover.jpg",
+        "filename": "In The End  Linkin Park.mp3"
+      },
+      {
+        "id": 17,
+        "title": "Kajra Re",
+        "artist": "Alisha Chinai, Shankar Mahadevan, Javed Ali",
+        "album": "Bunty Aur Babli",
+        "cover_image_url": "https://upload.wikimedia.org/wikipedia/en/8/80/BuntyAurBabli.jpg",
+        "filename": "Kajra Re  Full Song  Bunty Aur Babli  Aishwarya, Abhishek, Amitabh Bachchan  Shankar-Ehsaan-Loy.mp3"
+      },
+      {
+        "id": 18,
+        "title": "Aankhon Mein Teri",
+        "artist": "KK",
+        "album": "Om Shanti Om",
+        "cover_image_url": "https://imageproxy.themoviedb.org/t/p/w500/om_shanti_om_poster.jpg",
+        "filename": "kk - Aankhon Mein Teri Ajab Si.mp3"
+      },
+      {
+        "id": 19,
+        "title": "Die With A Smile",
+        "artist": "Lady Gaga, Bruno Mars",
+        "album": "Die With A Smile",
+        "cover_image_url": "https://i.scdn.co/image/ab67616d0000b27318c5e605d4546a80479f6475",
+        "filename": "Lady Gaga, Bruno Mars - Die With A Smile (Official Music Video).mp3"
+      },
+      {
+        "id": 20,
+        "title": "Leave Out All The Rest",
+        "artist": "Linkin Park",
+        "album": "Minutes to Midnight",
+        "cover_image_url": "https://upload.wikimedia.org/wikipedia/en/4/44/Minutes_to_Midnight.jpg",
+        "filename": "Leave Out All The Rest (Official Music Video) [4K Upgrade] - Linkin Park.mp3"
+      },
+      {
+        "id": 21,
+        "title": "Mera Bichraa Yaar",
+        "artist": "Strings",
+        "album": "Dhaani",
+        "cover_image_url": "https://upload.wikimedia.org/wikipedia/en/5/52/Stringsdhaani.jpg",
+        "filename": "Mera Bichraa Yaar  Strings  2003  Dhaani  (Official Video).mp3"
+      },
+      {
+        "id": 22,
+        "title": "Mere Mehboob Mere Sanam",
+        "artist": "Udit Narayan, Alka Yagnik",
+        "album": "Duplicate",
+        "cover_image_url": "https://upload.wikimedia.org/wikipedia/en/9/99/Duplicate_album_cover.jpg",
+        "filename": "Mere Mehboob Mere Sanam  4K Video Song  Udit Narayan, Alka Yagnik  Shah Rukh Khan, Juhi Chawla.mp3"
+      },
+      {
+        "id": 23,
+        "title": "I Want to Break Free",
+        "artist": "Queen",
+        "album": "The Works (2011 Remaster)",
+        "cover_image_url": "https://upload.wikimedia.org/wikipedia/en/0/06/Queen_The_Works.png",
+        "filename": "Queen - I Want To Break Free (Official Video).mp3"
+      },
+      {
+        "id": 24,
+        "title": "Otherside",
+        "artist": "Red Hot Chili Peppers",
+        "album": "Californication (Deluxe Edition)",
+        "cover_image_url": "https://upload.wikimedia.org/wikipedia/en/5/5e/Californication_cover512.jpg",
+        "filename": "Red Hot Chili Peppers - Otherside [Official Music Video].mp3"
+      },
+      {
+        "id": 25,
+        "title": "Smooth (feat. Rob Thomas)",
+        "artist": "Santana, Rob Thomas",
+        "album": "Supernatural (Remastered)",
+        "cover_image_url": "https://upload.wikimedia.org/wikipedia/en/b/b6/SantanaSupernaturalRemastered.jpg",
+        "filename": "Santana - Smooth (Stereo) ft. Rob Thomas.mp3"
+      },
+      {
+        "id": 26,
+        "title": "Sar Kiye Yeh Pahar",
+        "artist": "Strings",
+        "album": "Duur",
+        "cover_image_url": "https://upload.wikimedia.org/wikipedia/en/3/35/Strings_duur.jpg",
+        "filename": "Sar Kiye Yeh Pahar Strings 2000 Duur (Official Video).mp3"
+      },
+      {
+        "id": 27,
+        "title": "Hips Don't Lie (feat. Wyclef Jean)",
+        "artist": "Shakira, Wyclef Jean",
+        "album": "Oral Fixation, Vol. 2 (Expanded Edition)",
+        "cover_image_url": "https://upload.wikimedia.org/wikipedia/en/6/67/Oral_Fixation%2C_Vol._2.jpg",
+        "filename": "Shakira - Hips Dont Lie (Official Music Video) ft. Wyclef J.mp3"
+      },
+      {
+        "id": 28,
+        "title": "Until I Found You",
+        "artist": "Stephen Sanchez",
+        "album": "Until I Found You",
+        "cover_image_url": "https://i.scdn.co/image/ab67616d0000b273c7f18ca4713e54b6c16d50f",
+        "filename": "Stephen Sanchez - Until I Found You.mp3"
+      },
+      {
+        "id": 29,
+        "title": "Hypnotize",
+        "artist": "The Notorious B.I.G.",
+        "album": "Life After Death (2014 Remastered Edition)",
+        "cover_image_url": "https://upload.wikimedia.org/wikipedia/en/2/2f/Biggie-hypnotize.jpg",
+        "filename": "The Notorious B.I.G. - Hypnotize (Official Audio).mp3"
+      },
+      {
+        "id": 30,
+        "title": "Seven Nation Army",
+        "artist": "The White Stripes",
+        "album": "Elephant",
+        "cover_image_url": "https://upload.wikimedia.org/wikipedia/en/7/74/WhiteStripes-elephant.jpg",
+        "filename": "The White Stripes - Seven Nation Army (Official Music Video).mp3"
+      },
+      {
+        "id": 31,
+        "title": "I Still Haven't Found What I'm Looking For",
+        "artist": "U2",
+        "album": "The Joshua Tree",
+        "cover_image_url": "https://upload.wikimedia.org/wikipedia/en/4/47/The_Joshua_Tree_U2.png",
+        "filename": "U2 - I Still Haven't Found What I'm Looking For (Official Music Video).mp3"
+      },
+      {
+        "id": 32,
+        "title": "With Or Without You",
+        "artist": "U2",
+        "album": "The Joshua Tree",
+        "cover_image_url": "https://upload.wikimedia.org/wikipedia/en/4/47/The_Joshua_Tree_U2.png",
+        "filename": "U2 - With Or Without You (Official Music Video).mp3"
+      }
+    ]
+  }
