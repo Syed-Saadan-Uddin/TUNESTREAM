@@ -3,7 +3,7 @@
 **TuneStream** is a beautiful, feature-rich music streaming application built entirely with Flutter. Inspired by modern music apps, it provides a seamless user experience with a unique UI, robust session management, and personalized features. This project showcases a complete, production-ready mobile application architecture using BLoC for state management and Firebase for backend services.
 
  
-*(Recommendation: Create a GIF showcasing your app's UI and animations and replace the link above.)*
+Video Demo: https://drive.google.com/file/d/1ANZHqlokarzt9hFOyQMn-VGomuBykxws/view?usp=sharing
 
 ---
 
